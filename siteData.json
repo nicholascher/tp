@@ -52,7 +52,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
+        "filtering-lists": "Filtering Lists",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -62,6 +62,7 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-commission": "Adding a commission",
         "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data"
       },
@@ -110,6 +111,7 @@
         "freelancebuddy-user-guide": "FreelanceBuddy User Guide",
         "getting-started": "Getting Started",
         "quick-start": "Quick Start",
+        "how-to-use-freelancebuddy-s-user-guide": "How to Use FreelanceBuddy's User Guide",
         "features": "Features",
         "commands": "Commands",
         "general-commands": "General Commands",
@@ -119,14 +121,13 @@
         "data-storage": "Data Storage",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
+        "accepted-date-time-formats": "Accepted Date-time Formats",
         "command-summary": "Command summary",
         "general": "General",
         "contacts-tab": "Contacts Tab",
         "finance-tab": "Finance Tab",
         "events-tab": "Events Tab",
-        "faq": "FAQ",
-        "resources": "Resources",
-        "accepted-date-time-formats": "Accepted Date-time Formats"
+        "faq": "FAQ"
       },
       "headingKeywords": {}
     },
